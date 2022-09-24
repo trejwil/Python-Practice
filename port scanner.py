@@ -1,6 +1,6 @@
 import socket
 
-IP_ADDRESS - '192.168.0.1'
+IP_ADDRESS = '192.168.0.1'
 PORT = 139
 
 
